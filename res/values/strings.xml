@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, here is TestActivity!</string>
+    <string name="app_name">NiuB</string>
+	<string name="button_1">Button_1</string>
+	<string name="button_2">Button_2</string>
+	<string name="button_3">Button_3</string>
+</resources>
